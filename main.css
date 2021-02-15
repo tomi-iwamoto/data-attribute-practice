@@ -1,0 +1,30 @@
+body {
+    width: 100%;
+    height:100%;
+}
+
+.container {
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+
+.box {
+    width: 100px;
+    height:100px;
+}
+
+#box1 {
+    background-color:rgb(255, 75, 75);
+}
+
+#box2 {
+    background-color:rgb(137, 204, 204);
+}
+#box3 {
+    background-color:rgb(31, 179, 117);
+}
+#box4 {
+    background-color:rgb(251, 207, 218);
+}
